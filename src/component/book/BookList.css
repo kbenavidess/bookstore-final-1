@@ -1,0 +1,12 @@
+.ButtonColor {
+  background-color: rgb(0, 188, 212) !important;
+}
+
+.ButtonColorDelete {
+  background-color: rgb(244, 67, 54) !important;
+}
+
+.TextLeft {
+  text-align: left !important;
+  width: 550px;
+}
